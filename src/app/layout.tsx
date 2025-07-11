@@ -21,6 +21,9 @@ const readexPro = Readex_Pro({
 export const metadata: Metadata = {
   title: 'E-commerce App',
   description: 'Check it out',
+  icons: {
+    icon: '/favicon.svg',
+  },
 };
 
 export default function RootLayout({
