@@ -5,10 +5,10 @@ This is a minimalist e-commerce website built with Next.js,TypeScript,Tailwind a
 👉 Live Demo: [Ecom](https://ecom-nextjs-flame.vercel.app) 
 
 Build with:\
-» Next.js  
-» TypeScript
-» Tailwind
-» Zustand
+» Next.js    
+» TypeScript  
+» Tailwind  
+» Zustand  
 
 
 
